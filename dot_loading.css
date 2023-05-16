@@ -1,6 +1,7 @@
 .dots{
     /* position: relative;
     top: 20px; */
+    margin-top: 10px;
     display: flex;
     width: 150px;
     justify-content: space-around;

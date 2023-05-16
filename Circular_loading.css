@@ -1,4 +1,10 @@
 @import url(dot_loading.css);
+@import url(bar.css);
+
+body{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
 
 hr{
     height: 5px;
