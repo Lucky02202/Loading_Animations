@@ -21,8 +21,8 @@ hr{
 .circular{
     display: inline-block;
     border: 8px solid gray;
-    height: 50px;
-    width: 50px;
+    height: 60px;
+    width: 60px;
     border-radius: 50%;
     border-left-color: blue;
     animation: loading 1s linear  infinite;
